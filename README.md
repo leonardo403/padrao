@@ -1,4 +1,4 @@
-loja_padrao
+padrao
 ===========
 
 bootstrap for magento 
